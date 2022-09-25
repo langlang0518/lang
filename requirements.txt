@@ -1,4 +1,3 @@
-{{date.DATA}} 
 地区：{{region.DATA}} 
 天气：{{weather.DATA}} 
 最低气温：{{min_temp.DATA}} 
